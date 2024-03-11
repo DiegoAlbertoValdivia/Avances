@@ -1,4 +1,4 @@
-#Avances-en-la-Construcci-n-de-tu-Traductor
+# Avances-en-la-Construcci-n-de-tu-Traductor
 
 Objetivo:
 Desarrollar un componente específico de un traductor (puede ser un compilador o un intérprete) para un lenguaje de programación simplificado. Este proyecto se realizará en varias fases, cada una centrada en una parte diferente del proceso de traducción. Fase Actual: Análisis Léxico y sintactico
