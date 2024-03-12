@@ -1,6 +1,10 @@
-# Analizador_Sintactico_Objetos
+# Introducción
+En el campo de la construcción de compiladores y análisis de lenguajes de programación, el
+analizador sintáctico desempeña un papel crucial al interpretar la estructura gramatical de un
+programa fuente. La implementación de analizadores sintácticos utilizando el paradigma de
+objetos ofrece una perspectiva modular y escalable, permitiendo la construcción de sistemas más
+mantenerles y extensibles
 
-## Objetivo
-Modificar el tipo de dato de la pila de tu Analizador Sintáctico LR(1) ahora realizando una implementación usando objetos.
+# Desarrollo
 
-
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
